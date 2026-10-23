@@ -1,0 +1,8 @@
+/node_modules
+/www
+/.angular
+/.cache
+/dist
+*.log
+.DS_Store
+.vscode/
